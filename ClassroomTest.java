@@ -13,6 +13,6 @@ public class Classroom {
 
  @Test
  public void testClassroomSetup(){
-  assertEquals( 20, classroom.length() )
+  assertEquals( 20, classroom.length() );
  }
 }

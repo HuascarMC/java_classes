@@ -1,4 +1,4 @@
-class Classroom {
+class Classroom{
  private Person[] students;
 
  public Classroom(int capacity) {
